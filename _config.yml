@@ -26,7 +26,7 @@ baseurl: "/intro-dh-portfolio-gillislinde" # CHANGE THIS! the subpath of your si
 url: "https://gillislinde.github.io/" # CHANGE THIS the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title:output_ext
 twitter_username: 
-github_username:  
+github_username:  gillislinde
 
 # Build settings
 theme: minima
