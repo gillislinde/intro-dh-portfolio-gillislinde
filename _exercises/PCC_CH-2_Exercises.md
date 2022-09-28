@@ -1,3 +1,11 @@
+---
+layout: page
+title: Exercises Ch. 2
+description: Select exercises from Python Crash Course
+---
+
+
+
 # Python Crash Course Chapter 2 Exercises
 ## 2-1 Simple Message
 Store a message in a variable, and then print that message
