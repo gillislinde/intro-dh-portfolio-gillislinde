@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Variables, Strings, and Numbers
-description: This notebook has code aboutu variables, strings, and numbers
+description: This notebook has code about variables, strings, and numbers
 ---
 
 # Heading 1
