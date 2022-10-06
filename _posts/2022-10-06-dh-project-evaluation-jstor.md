@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JSTOR Text Anayzer - Digital Humanities Project Evaluation"
+title:  "JSTOR Text Analyzer - Digital Humanities Project Evaluation"
 date:   "2022-10-05"
 categories: jekyll update
 ---
