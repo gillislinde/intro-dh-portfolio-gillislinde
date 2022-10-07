@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Text Analyzer (JSTOR Labs) - DH Project Evaluation"
+title:  "Text Analyzer (JSTOR Labs)"
 date:   "2022-10-05"
 categories: jekyll update
 ---
