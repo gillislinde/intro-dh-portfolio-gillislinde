@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # The History of the Decine and Fall of the Roman Empire
 
-WIn Gibbon’s book, The History of the Decline and Fall of the Roman Empire, he attempts to provide a definitive explanation to why the Roman Empire fell. The reading summarizes Edward Gibbon’s book, but more importantly provides an overview of the subsequent criticism the book received for its theses. 
+In Gibbon’s book, The History of the Decline and Fall of the Roman Empire, he attempts to provide a definitive explanation to why the Roman Empire fell. The reading summarizes Edward Gibbon’s book, but more importantly provides an overview of the subsequent criticism the book received for its theses. 
 
 Edward Gibbons claims that the fall was caused by the barbarian invasions, the “gradual loss of civic virtue among its citizens,” and finally the Romans adoption of Christianity. He even goes as far to say that the question shouldn’t be why did the empire collapse, but rather how did they last so long. 
 
