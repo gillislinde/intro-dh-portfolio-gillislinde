@@ -4,8 +4,9 @@ title: Visualizing Data with Bokeh and Pandas
 description: In this lesson you will learn how to visualy explore and present data in Python by using the Bokeh and Pandas libraries.
 ---
 
+## Source
 
-Note: All output_file() calls have been replaced with output_notebook() so that plots will display inline.
+https://programminghistorian.org/en/lessons/visualizing-with-bokeh
 
 # The Basics of Bokeh
 
