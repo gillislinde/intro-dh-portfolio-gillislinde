@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Understanding and Using Common Similarity Measures for Text Analysis
-description: In this lesson you will learn how to visualy explore and present data in Python by using the Bokeh and Pandas libraries.
+description: This lesson introduces three common measures for determining how similar texts are to one another. You will learn the general principles behind similarity, the different advantages of these measures, and how to calculate each of them using the SciPy Python library.
 ---
-
-This lesson introduces three common measures for determining how similar texts are to one another: city block distance, Euclidean distance, and cosine distance. You will learn the general principles behind similarity, the different advantages of these measures, and how to calculate each of them using the SciPy Python library.
-
 ## Source
 
 https://programminghistorian.org/en/lessons/common-similarity-measures#samples-and-features
