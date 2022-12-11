@@ -8,6 +8,12 @@ description: In this lesson you will learn how to visualy explore and present da
 
 https://programminghistorian.org/en/lessons/visualizing-with-bokeh
 
+## Reflection
+
+In the visualizing data with Bokeh and Pandas programming historian lesson, I learned what Bokeh and Pandas are and, well, how they can be used to visualize different kinds of data sets. Bokeh is a Python library that allows users to create visualizations for web browsers that can be interactive. This interactive aspect makes them very user friendly and great for analysis. Generally, Bokeh visualization are in the form of different kinds of charts, plots, and even maps. Pandas is an extremely popular open-source python data manipulator. Together, Bokeh and pandas are used to make these visualizations. You would use Pandas to clean and manipulate datasets. (It is especially useful because you can use Pandas with extremely large datasets that would otherwise be very hard to work with.) And then you would use Bokeh to make the charts that allow users to explore and learn about the data in a user-friendly digestible way.
+
+In this lesson, I applied Bokeh and Pandas to analyze a data set of WWII bombing runs, but the applications are limitless. Pretty much any kind of data set can be used to make visualizations. For example, I am planning on taking what I learned to help me with the visualization of my final project comparing songs and albums in Kendrick Lamar’s discography. 
+
 # The Basics of Bokeh
 
 ## Your First PLot
