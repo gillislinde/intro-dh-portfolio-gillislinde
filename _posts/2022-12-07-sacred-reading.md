@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Humanities"
+title:  "Sacred Reading"
 date:   "2022-12-07"
 categories: jekyll update
 ---
