@@ -4,7 +4,7 @@ title:  "The Measured Words"
 date:   "2022-11-11"
 categories: jekyll update
 ---
- ## The Measured Words: How Computers Analyze Text
+## The Measured Words: How Computers Analyze Text
 
 Galatea 2.2 is the story an artificial intelligence named Helen that learns to interpret English literature at the level of a Master of Arts student. The story highlights the idea that while computers and AI can be programed to work with the humanities, the computers’ interpretations lack the experience that humans get from reading and analyzing literature. More importantly, the relationship that readers develop with the humanities is crucial to said interpretations and said AI lacks this ability. Galatea demonstrates this idea by Helen's decision to terminate her own program after realizing that she can never experience the world that is depicted in the literature. 
 
